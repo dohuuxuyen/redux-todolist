@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-todolist/static/css/main.dbd1036f.css",
+    "main.js": "/redux-todolist/static/js/main.91bcce51.js",
+    "index.html": "/redux-todolist/index.html",
+    "main.dbd1036f.css.map": "/redux-todolist/static/css/main.dbd1036f.css.map",
+    "main.91bcce51.js.map": "/redux-todolist/static/js/main.91bcce51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd1036f.css",
+    "static/js/main.91bcce51.js"
+  ]
+}
